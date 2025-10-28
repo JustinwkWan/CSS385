@@ -1,0 +1,3 @@
+PlayerPrefs: They are good for key-value storage however it is not secure and players will be able to change game data (no good).\
+JSON Serialization: Files are saved and can be read in english not computer code however it has larger file sizes than other storage mechanicsm which may slow down the game. 
+Binary Serialization: Has fast reads and writes while encryting the data so users can not mess around with game data however code is in ascii which makes it harder to debug with. 
