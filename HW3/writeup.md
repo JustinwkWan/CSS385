@@ -1,0 +1,1 @@
+This interaction model can be used in different parts of the game by players being able to destroy objects after being used/walking over. When players stop over a key / new clue, instead of destroying the object, I can make an audio indicator. 
